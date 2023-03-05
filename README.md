@@ -1,3 +1,4 @@
 # CatchTheNode
-Sem 4 DSA Project
-Visualization of Different Graph Algorithms using SDL 2.0 and C++.
+## Graph Algorithm Visualizer
+It is a visualizer for different graph algorithms, written in C++ and SDL 2.0. It visualizes DFS, BFS and Dijkstra's Algorithm.
+
